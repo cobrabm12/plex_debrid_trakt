@@ -49,6 +49,11 @@ This repository contains a complete setup for streaming content using Plex, Real
 - The `plex_debrid_src` folder contains the source code for `plex_debrid`. It has been patched to fix User-Agent issues with Torrentio and to handle Real-Debrid API limitations.
 - **Do not commit `zurg/config.yml` or `plex_debrid/config/settings.json` to a public repository as they contain your private API keys.**
 
+## Credits
+
+- **Original Project:** [plex_debrid](https://github.com/itsToggle/plex_debrid) by [itsToggle](https://github.com/itsToggle).
+- **Adapted & Updated by:** [cobrabm12](https://github.com/cobrabm12) - Updated for Docker compatibility, fixed Torrentio scraping issues, and optimized for current Real-Debrid API requirements.
+
 ## Troubleshooting
 
 - Check logs with: `docker-compose logs -f`
