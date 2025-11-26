@@ -1,0 +1,16 @@
+# Ignore sensitive configuration files
+plex_debrid/config/settings.json
+plex_debrid/config/plex_debrid.log
+plex_debrid/config/plex_metadata.pkl
+plex_debrid/config/settings.json.old
+zurg/config.yml
+zurg/data/
+rclone.conf
+rclone_mount.log
+local_movies/
+__pycache__/
+*.pyc
+.env
+*.exe
+zurg_src/
+plex_debrid_src/__pycache__/
