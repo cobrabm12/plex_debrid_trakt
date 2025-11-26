@@ -13,8 +13,8 @@ This repository contains a complete setup for streaming content using Plex, Real
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/cobrabm12/plex_debrid_trakt.git
+    cd plex_debrid_trakt
     ```
 
 2.  **Configure Zurg:**
